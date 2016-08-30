@@ -1,2 +1,4 @@
  "another string!!" 
 "new line" 
+pushed
+pushed again
